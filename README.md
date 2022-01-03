@@ -1,4 +1,4 @@
-# Hello Friend. My name is Jalal Sayed
+# Hello, my name is Jalal Sayed
 
 - 🎞  I’m a Electronics and Software Engineering student at the [University of Glasgow](https://www.gla.ac.uk/undergraduate/degrees/electronicsoftwareengineering/).
 - 🖥  I’m currently learning about **hardware** (VHDL and OrCAD), **software** (Java), **networking** and **OSes**.
