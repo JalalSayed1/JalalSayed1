@@ -1,6 +1,6 @@
 # Hello, my name is Jalal Sayed
 
-- An Electronics and Software Engineering student at the [University of Glasgow](https://www.gla.ac.uk/undergraduate/degrees/electronicsoftwareengineering/).
+- Electronics and Software Engineering student at the [University of Glasgow](https://www.gla.ac.uk/undergraduate/degrees/electronicsoftwareengineering/).
 <!-- - 🖥  I’m currently learning about **hardware** (VHDL and OrCAD), **software** (Java), **networking** and **OSes**. -->
 - Where to find me => Website: [jalalsayed.com](https://jalalsayed.com) - Twitter: [@jalal_sayed1](https://twitter.com/jalal_sayed1) 
 
