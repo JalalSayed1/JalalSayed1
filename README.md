@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jalal Sayed</h1>
 <h3 align="center">Electronics and Software Engineering student at UofG.</h3>
 
-- 👨‍💻 All of my projects are available at [https://jalalsayed.com/projects/](https://jalalsayed.com/projects/)
+- 👨‍💻 All of my projects are available in this GitHub account.
 
 - 📝 I regularly write articles on [https://jalalsayed.com/blog/](https://jalalsayed.com/blog/)
 
