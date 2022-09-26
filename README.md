@@ -8,7 +8,7 @@
 - 📫 How to reach me **https://jalalsayed.com/**
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalalsayed1&show_icons=true&locale=en&layout=compact" alt="jalalsayed1" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalalsayed1&show_icons=true&locale=en&layout=compact" alt="jalalsayed1" /></p> -->
 
 
 </p>
