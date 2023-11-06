@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available in this GitHub account.
 
-- 📝 I regularly write articles on [https://jalalsayed.com/blog/](https://jalalsayed.com/blog/)
+- 📝 I write articles on [https://jalalsayed.com/blog/](https://jalalsayed.com/blog/)
 
 - 📫 How to reach me **https://jalalsayed.com/**
 
